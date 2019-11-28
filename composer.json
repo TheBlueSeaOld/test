@@ -1,0 +1,16 @@
+{
+    "name": "hundun/test",
+    "description": "demo goods",
+    "type": "project",
+    "require": {
+        "phpdocumentor/reflection-common": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sleep",
+            "email": "379533792@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
